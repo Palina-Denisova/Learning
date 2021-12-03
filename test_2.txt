@@ -1,0 +1,3 @@
+<xml>
+<name>Palina</name>
+<age>21</age>
